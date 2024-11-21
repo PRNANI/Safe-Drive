@@ -10,7 +10,7 @@ from cvzone.PlotModule import LivePlot
 import mediapipe as mp
 
 # Line Notify Access Token
-line_notify_token = 'kgZSUfr7rqvkD8KvnelxyP4v4HEe6guoXmfqi9w2HMG'
+line_notify_token = '' # ใส่token
 line_notify_api = 'https://notify-api.line.me/api/notify'
 
 # ฟังก์ชันส่งข้อความไปยัง Line
